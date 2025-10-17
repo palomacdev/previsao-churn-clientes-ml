@@ -81,4 +81,4 @@ Com base nos insights do modelo, as seguintes ações são recomendadas para a e
 1.  Clone o repositório.
 2.  Instale as dependências: `pip install -r requirements.txt`.
 3.  Para a análise completa e visual, execute o notebook `churn_analysis_report.ipynb`.
-4.  Alternativamente, execute os scripts na pasta `scripts-python/` em sequência.
+
